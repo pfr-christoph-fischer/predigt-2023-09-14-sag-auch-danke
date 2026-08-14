@@ -9,7 +9,7 @@ series: Trinitatiszeit 2023
 summary: "Wenn Gott so viel Gutes tut, kann man das Danken doch gar nicht vergessen! Oder doch?"
 source: pfarrplaner
 source_id: "397@www.pfarrplaner.de"
-cover: cover.
+cover: sag-auch-danke.jpg
 cover_alt: "Titelbild zur Predigt \"Sag auch Danke\"."
 note: "Der Text dieser Predigt folgt im Wesentlichen der Vorlage von Thomas Borchers (2023) aus Gottesdienstpraxis Serie A, V. Perikopenreihe, Band 4. Gütersloh: GVH. S.10-14."
 legacy_id: 397
